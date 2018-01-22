@@ -4,7 +4,7 @@
   <description>
         Moodle Mobile official app
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
+  <author href="http://lms.kvc.ac.th" email="mobile@moodle.com">
         Moodle Mobile team
     </author>
   <content src="index.html"/>
